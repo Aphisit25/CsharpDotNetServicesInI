@@ -42,3 +42,17 @@ namespace WinDapper.utils
         }
     }
 }
+
+// วิธีเรียกใช้งาน
+//var ini = new utils();
+//string hostnm = ini.Get("App", "Language");
+
+//eg. ini file
+// [Database]
+// Host=localhost
+// User=admin
+// Password=1234
+
+// [App]
+// Theme=dark
+// Language=en
