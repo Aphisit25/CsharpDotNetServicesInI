@@ -1,0 +1,7 @@
+KEY_API=eyJvcmciOiI2NzM1NzgwZWM4YzFlYjAwMDEyYTM3NzEiLCJpZCI6IjczZmQyMDM1ZDJjODQ4YjJhOGQzODBmZDU3MmRkYmVlIiwiaCI6Im11cm11cjEyOCJ9
+
+MONTHLY
+BASE_URL=https://gateway.api.bot.or.th/Stat-ExchangeRate/v2/MONTHLY_AVG_EXG_RATE/?start_period=2024-01&end_period=2024-01&currency=USD
+
+DAILY
+BASE_URL=https://gateway.api.bot.or.th/Stat-ExchangeRate/v2/DAILY_AVG_EXG_RATE/?start_period=2024-01-01&end_period=2024-01-01&currency=USD
