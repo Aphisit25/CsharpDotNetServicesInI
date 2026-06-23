@@ -5,3 +5,9 @@ BASE_URL=https://gateway.api.bot.or.th/Stat-ExchangeRate/v2/MONTHLY_AVG_EXG_RATE
 
 DAILY
 BASE_URL=https://gateway.api.bot.or.th/Stat-ExchangeRate/v2/DAILY_AVG_EXG_RATE/?start_period=2024-01-01&end_period=2024-01-01&currency=USD
+
+MONTHLY 2026
+https://gateway.api.bot.or.th/Stat-ExchangeRate/v2/MONTHLY_AVG_EXG_RATE/?start_period=2026-05&end_period=2026-05&currency=USD
+
+DAILY 2026
+https://gateway.api.bot.or.th/Stat-ExchangeRate/v2/DAILY_AVG_EXG_RATE/?start_period=2026-06-22&end_period=2026-06-22&currency=USD
